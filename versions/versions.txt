@@ -1,0 +1,12 @@
+[Versions]
+alpha-0.0.1
+
+[Supported versions]
+"alpha-0.0.1"=Supported
+
+[Support tags]
+"alpha-0.0.1"="<#299933>SUPPORTED!"
+
+[Installers]
+"alpha-0.0.1"=/versions/alpha-0.0.1/installer.exe
+
