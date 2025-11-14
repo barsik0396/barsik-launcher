@@ -1,0 +1,14 @@
+# version ALPHA-0.0.1
+
+[Version info]
+version_name="Barsik Launcher 0.0.1" # Описание версии
+version=a001 # Версия
+full_ver_name="Version ALPHA 0.0.1" # Полное название версии
+
+[Downloads]
+download_site=https://raw.githubusercontent.com/barsik0396/barsik-launcher/versions/alpha-0.0.1/build_alpha-0.0.1.zip
+
+[info]
+py_cmd=python launcher.py
+wiki=NONE
+github_ownedby=barsik0396
